@@ -1,0 +1,14 @@
+main
+*.o
+*.ko
+*.cmd
+*.mod
+*.mod.c
+
+Module.symvers
+modules.order
+
+.vscode/
+
+*.tmp
+*.log
