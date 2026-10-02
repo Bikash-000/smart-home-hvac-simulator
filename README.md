@@ -60,6 +60,12 @@ The main objectives of this project are:
 
 ## 4. System Architecture
 
+The overall architecture of the project is shown below.
+
+![Smart Home System Architecture](system_architecture.png)
+
+### Architecture Flow
+
 ```text
                     +----------------------+
                     |     Smart Sensor     |
